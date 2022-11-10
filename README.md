@@ -130,4 +130,4 @@ If the user does not need to customize his own policy, AS will use the [default 
 
 In order to verify TCB status, AS needs to obtain the reference value for comparison in advance.
 AS allows users to upload customized reference value sets when they need to perform evidence validation (just as they can upload customized policy).
-If no customized reference value is uploaded, the AS will obtain the reference value from [Reference Value Provider Service](rvps/README.md) (RVPS for short).
+If no customized reference value is uploaded, the AS will obtain the reference value from [Reference Value Provider Service](rvps) (RVPS for short).
